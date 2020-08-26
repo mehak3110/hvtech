@@ -38,7 +38,7 @@
                 target="_blank"
               >
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/Dodge.png" alt="Image" class="rounded-circle tm-img-timeline" />
+                  <img src="../assets/icons/Dodge.png" alt="Image" class="rounded-circle tm-img-timeline" />
 
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
@@ -64,7 +64,7 @@
                 target="_blank"
               >
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/Avoid.png" alt="Image" class="rounded-circle tm-img-timeline" />
+                  <img src="../assets/icons/Avoid.png" alt="Image" class="rounded-circle tm-img-timeline" />
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
                   </div>
@@ -88,7 +88,7 @@
                 target="_blank"
               >
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/Walls.png" alt="Image" class="rounded-circle tm-img-timeline" />
+                  <img src="../assets/icons/Walls.png" alt="Image" class="rounded-circle tm-img-timeline" />
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
                   </div>
@@ -114,7 +114,7 @@
                 target="_blank"
               >
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/Fast.png" alt="Image" class="rounded-circle tm-img-timeline" />
+                  <img src="../assets/icons/Fast.png" alt="Image" class="rounded-circle tm-img-timeline" />
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
                   </div>
@@ -137,7 +137,7 @@
             <div class="tm-timeline-item">
               <a href="https://www.youtube.com/channel/UCMUfZIehRM2RERI04ltCTeQ" target="_blank">
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/youtube.png" alt="Image" class="tm-img-timeline" />
+                  <img src="../assets/icons/youtube.png" alt="Image" class="tm-img-timeline" />
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
                   </div>
@@ -158,7 +158,7 @@
               <a href="https://www.instagram.com/hv_technologies19/" target="_blank">
                 <div class="tm-timeline-item-inner">
                   <img
-                    src="../assets/instagram.png"
+                    src="../assets/icons/instagram.png"
                     alt="Image"
                     class="rounded-circle tm-img-timeline"
                   />
@@ -178,7 +178,7 @@
             <div class="tm-timeline-item">
               <a href="https://www.facebook.com/hvtechnologies19/" target="_blank">
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/facebook.png" alt="Image" class="tm-img-timeline" />
+                  <img src="../assets/icons/facebook.png" alt="Image" class="tm-img-timeline" />
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
                   </div>
@@ -199,7 +199,7 @@
                 target="_blank"
               >
                 <div class="tm-timeline-item-inner">
-                  <img src="../assets/playstore.png" alt="Image" class="tm-img-timeline" />
+                  <img src="../assets/icons/playstore.png" alt="Image" class="tm-img-timeline" />
                   <div class="tm-timeline-connector">
                     <p class="mb-0">&nbsp;</p>
                   </div>

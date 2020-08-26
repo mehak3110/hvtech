@@ -41,27 +41,27 @@ export default {
         return {
             items: [
                 {
-                    src: require("../assets/img-carousel1.jpeg")
+                    src: require("../assets/images/img-carousel1.jpeg")
                 },
                 {
-                    src: require("../assets/img-carousel2.jpeg")
+                    src: require("../assets/images/img-carousel2.jpeg")
                 }
             ],
             apps: [
                 {
-                    src: require("../assets/Avoid.png"),
+                    src: require("../assets/icons/Avoid.png"),
                     title: 'Avoid'
                 },
                 {
-                    src: require("../assets/Dodge.png"),
+                    src: require("../assets/icons/Dodge.png"),
                     title: 'Dodge'
                 },
                 {
-                    src: require("../assets/Fast.png"),
+                    src: require("../assets/icons/Fast.png"),
                     title: 'Fast'
                 },
                 {
-                    src: require("../assets/Walls.png"),
+                    src: require("../assets/icons/Walls.png"),
                     title: 'Walls'
                 },
             ]
